@@ -1,7 +1,7 @@
 # THE OFFICIAL ROVEL BOT GUIDE
 
 [https://discord.gg/Rf3xPMm](https://discordapp.com/api/guilds/602906543356379156/embed.png)
-[![Support Server](https://discordapp.com/api/guilds/602906543356379156/widget.png?style=banner2)](https://discord.gg/Rf3xPMm)
+[![Support Server](https://discord.gg/Rf3xPMm)](https://discordapp.com/api/guilds/602906543356379156/widget.png?style=banner2)
 [](https://img.shields.io/badge/Invite-ROVEL%20BOT-blue?style=flat-square&logo=discord)
 
 YOU MIGHT BE WONDERING WHY THIS GUIDE WOULD BE THERE, IT'S BECAUSE WE WANTED TO SHOW AND HELP OTHERS GET UP THEIR OWN BOTS, WHILE OTHER PEOPLE LEARNING OUR BOT'S CODE, CREATING MORE NEW COMMANDS AND CODES FOR OUR BOT FOR IT'S FASTER DEVELOPEMENT.
