@@ -1,5 +1,6 @@
-# THE OFFICAL ROVEL BOT GUIDE
+# THE OFFICIAL ROVEL BOT GUIDE
 
+![https://discord.gg/Rf3xPMm](https://discordapp.com/api/guilds/602906543356379156/embed.png)
 ![https://discord.gg/Rf3xPMm](https://discordapp.com/api/guilds/602906543356379156/widget.png?style=banner2)
 ![https://discordapp.com/oauth2/authorize?client_id=603213294265958400&permissions=8&scope=bot](https://img.shields.io/badge/Invite-ROVEL%20BOT-blue?style=flat-square&logo=discord)
 
